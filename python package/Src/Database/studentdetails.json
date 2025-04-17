@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "vikas",
+        "contact": "88887880657",
+        "address": "gurgoan",
+        "status": "active"
+    },
+    {
+        "id": "102",
+        "name": "ajay",
+        "contact": "9999999999",
+        "address": "delhi",
+        "status": "active"
+    }
+]
